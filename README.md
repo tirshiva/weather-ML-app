@@ -16,7 +16,7 @@ A modern, full-stack machine learning web application that predicts and visualiz
 ---
 
 ## 🚀 Demo
-![Weather Stats ML Web App Screenshot](./web/demo-screenshot.png)
+(./web/photo 02.png)
 
 ---
 
@@ -62,7 +62,7 @@ weather-ml-app/
 ### 1. **Clone & Install**
 ```bash
 # Clone the repo
-https://github.com/yourusername/weather-ml-app.git
+https://github.com/tirshiva/weather-ml-app.git
 cd weather-ml-app
 
 # (Optional) Create a virtual environment
@@ -115,7 +115,7 @@ python run_app.py
 ---
 
 ## 📸 Screenshots
-> _Add screenshots of the UI here to impress recruiters!_
+> (web\Photo 02.png)
 
 ---
 
@@ -129,9 +129,9 @@ python run_app.py
 ---
 
 ## 🙋 About the Author
-**Your Name**  
+**Shivanshu Tiwari**  
 _Machine Learning & Full-Stack Developer_  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/shivanshu2407) | [GitHub](https://github.com/tirshiva)
 
 ---
 
