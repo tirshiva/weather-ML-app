@@ -16,7 +16,8 @@ A modern, full-stack machine learning web application that predicts and visualiz
 ---
 
 ## 🚀 Demo
-/web/photo 02.png
+<img width="946" height="470" alt="Photo 02" src="https://github.com/user-attachments/assets/a511e1d8-9b83-4aa0-bd2a-96a36a6f4470" />
+
 
 ---
 
@@ -115,7 +116,8 @@ python run_app.py
 ---
 
 ## 📸 Screenshots
-> web\Photo 02.png
+<img width="337" height="201" alt="photo 01" src="https://github.com/user-attachments/assets/f11ee6cd-b5a6-48a4-8a47-7806d3e69eac" />
+
 
 ---
 
