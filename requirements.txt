@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+meteostat
+scikit-learn
+joblib 
